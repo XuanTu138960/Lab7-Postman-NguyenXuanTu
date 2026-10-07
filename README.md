@@ -49,3 +49,24 @@ Body
     "body": "Test POST request",
     "userId": 1
 }
+6. Thực hành PUT
+Request
+
+PUT:
+
+https://jsonplaceholder.typicode.com/posts/1
+
+Body
+{
+    "id": 1,
+    "title": "Updated Lab 7",
+    "body": "Updated using PUT in Postman",
+    "userId": 1
+}
+7. Thực hành DELETE
+Request
+
+DELETE:
+
+https://jsonplaceholder.typicode.com/posts/1
+
